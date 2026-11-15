@@ -1,6 +1,6 @@
 # Small Business Loan Default Prediction
 
-A logistic regression model that predicts whether a small business borrower will default, and a threshold choice that turns those predictions into approve or reject decisions.
+A logistic regression model that predicts whether a small business borrower will default, and a threshold choice that turns those predictions into approve or reject decisions. This is an example of a project completed in my Introduction to Data Science course.
 
 ## Tools
 Python (pandas, statsmodels, scikit-learn) in Google Colab
